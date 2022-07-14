@@ -1,0 +1,74 @@
+body {
+    width: 1250px;
+    height: 900px; 
+    background-color: black;
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 30px;
+    font-size: 55px;
+    text-decoration: underline;
+}
+h5 {
+    position: relative;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    top: 75px; 
+}
+.maintext {
+    padding-top:20px;
+    text-align: justify;
+    padding-left: 45px;
+}
+#text1 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    padding: 20px;
+}
+#text2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+#text3 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    padding-left: 20px;
+}
+footer {
+    width: 1250px;
+    height: 150px;
+}
+a {
+    color: white;
+    left: 500px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    position: relative;
+    top: 50px;
+    left: 545px; 
+    font-size: 40px;
+}
+a:link {
+    -webkit-transition: color .5s linear;
+    -moz-transition: color .5s linear;
+    -ms-transition: color .5s linear;
+    -o-transition: color .5s linear;
+    transition: color .5s linear;
+}
+a:hover {
+    color: aquamarine;
+}
+* {box-sizing:border-box}
+#slideshow {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }

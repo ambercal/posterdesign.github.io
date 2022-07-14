@@ -1,0 +1,151 @@
+body { 
+    width: 1250px;
+    height: 900px; 
+    background-color: black;
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+h2, p {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    position: relative;
+    bottom: 250px;
+    left: 290px; 
+}
+h2 {
+    color: aquamarine;
+    font-size: 25px;
+}
+h5 {
+    position: relative;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    top: 950px;
+}
+#block1 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 10px;  
+}
+img.start1 {
+    width: 245px; 
+    height: auto;
+    margin-top: 20px; 
+    position: relative;
+    left: 20px
+}
+#block2 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    right: 504px;
+    top: 430px; 
+}
+img.start2 {
+    width: 246px;
+    height: auto;
+    margin-top: 20px; 
+    position: relative;
+}
+#block3 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 250px;  
+    left: 10px; 
+}
+img.start3 {
+    width: 245px; 
+    height: auto;
+    margin-top: 20px; 
+    position: relative;
+    left: 20px
+}
+#block4 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 690px;  
+    right: 430px; 
+}
+img.start4 {
+   width: 245px;
+   height: auto; 
+}
+#block5 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 510px;  
+    left: 30px; 
+}
+img.start5 {
+    width: 245px;
+    height: auto;
+}
+#block6 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 920px; 
+    right: 507px; 
+}
+img.start6 {
+    width: 247px; 
+    height: auto;
+}
+#block7 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 28px; 
+    top: 750px;
+}
+img.start7 {
+    width: 246px; 
+    height: auto;
+}
+#block8 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    right: 473px;
+    top: 1195px;
+}
+img.start8 {
+    width: 246px; 
+    height: auto;
+}
+#block9 {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    top: 1020px; 
+    left: 28px; 
+}
+img.start9 {
+    width: 246px; 
+    height: auto;
+}
+a:link {
+    text-decoration: none;
+    color: white;
+    -webkit-transition: color .5s linear;
+    -moz-transition: color .5s linear;
+    -ms-transition: color .5s linear;
+    -o-transition: color .5s linear;
+    transition: color .5s linear;
+    position: relative;
+    top: 10px; 
+    font-size: 25px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+a:hover {
+    color: aquamarine;
+}
+a:visited {
+    color: white;
+}

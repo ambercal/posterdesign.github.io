@@ -1,0 +1,235 @@
+body {
+    width: 1250px;
+    height: 900px; 
+    background-color:black; 
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+h1, h2, h3 {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 10px;
+    margin-left: 5px;
+}
+#fronttext {
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    margin-left: 10px; 
+    text-align: center;
+    position: relative;
+    right: 300px;
+}
+.posters {
+    color: aquamarine;
+    font-size: 40px;
+}
+.communication {
+    color: aquamarine;
+}
+#foottext {
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    margin-right: 10px;
+    position: relative; 
+    bottom: 550px;
+}
+.exactly { 
+    color: aquamarine;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    letter-spacing: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+h5 {
+    color: white;
+    position: relative;
+    bottom: 80px; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img.poster2 {
+    width: 372px; 
+    height: auto;
+    position: relative;
+    left: 400px;
+}
+img.poster3 {
+    width: 241px;
+    height: auto;
+    position: relative;
+    right: 230px;
+    bottom: 177.5px;
+}
+img.poster4 {
+    width: 248px; 
+    height: auto; 
+    position: relative;
+    left: 165px;
+    bottom: 199.5px; 
+}
+img.poster6 {
+    width: auto; 
+    height: 289px; 
+    position: relative;
+    bottom: 563px;
+    right: 200px;
+}
+img.poster7 {
+    width: 198px; 
+    height: auto; 
+    position: relative;
+    bottom: 773px;
+    right: 66px;
+}
+
+img.poster10 {
+    width: 273px; 
+    height: 404px; 
+    position: relative;
+    left: 675px;
+    bottom: 1093px;
+}
+img.poster12 {
+    width: auto; 
+    height: 234px; 
+    position: relative;
+    left: -512.5px; 
+    bottom: 523px;
+}
+img.poster16 {
+    width: auto;
+    height: 391px; 
+    position: absolute;
+    top: -110px;
+    right: -190px;
+}
+img.poster17 { 
+    width: 248px; 
+    height: auto; 
+    position: absolute;
+    right: 221.5px;
+    top: 658px; 
+}
+img.poster18 {
+    width: 372px; 
+    height: auto; 
+    position: relative;
+    bottom: 554px;
+    left: 400px;
+}
+img.poster19 {
+    width: auto;
+    height: 372px; 
+    position: absolute;
+    right: -60px; 
+    top: 835px; 
+}
+img.poster21 {
+    width: 252px; 
+    height: auto;
+    position: relative;
+    bottom: 470px; 
+    right: 496px;
+}
+img.poster22 {
+    width: 200px;
+    height: auto;  
+    position: relative; 
+    bottom: 755px;
+    left: -324px; 
+}
+img.poster26 {
+    position: relative;
+    width: auto; 
+    height: 341px;
+    bottom: 881px;
+    right: 314px;
+}
+img.poster27 {
+ position: relative;
+ width: 372px;
+ height: auto;
+ bottom: 520px;
+ right: 305px;
+}
+img.poster28 {
+ position: relative;
+ width: 241px;
+ height: auto;
+ bottom: 870px;
+ left: 146px;
+}
+img.poster29 {
+    position: absolute;
+    width: 248px;
+    height: auto;
+    top: 1005px;
+    right: 221.5px;
+}
+.inspo {
+    position: relative;
+    text-align: center;
+    bottom: 370px;
+}
+ul {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-flex;
+    position: relative; 
+    left: 520px;
+    bottom: 100px;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.button {
+    color: aquamarine;
+}
+.insta {
+    position: relative;
+    right: 130px; 
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.face {
+    position: relative;
+    text-decoration: none;
+    padding: 10px;
+    right: 30px; 
+    background-color: white;
+    border-radius: 5px;
+}
+.lin {
+    position: relative;
+    left: 70px; 
+    text-decoration: none;
+    padding: 10px; 
+    background-color: white;
+    border-radius: 5px;
+}
+a:link {
+    color: black;
+    -webkit-transition: color .5s linear;
+    -moz-transition: color .5s linear;
+    -ms-transition: color .5s linear;
+    -o-transition: color .5s linear;
+    transition: color .5s linear;
+    text-decoration: none;
+}
+.link1 {
+    position: relative;
+    top: 60px; 
+}
+a:hover {
+    color: aquamarine;
+}
